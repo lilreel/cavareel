@@ -50,7 +50,7 @@
     <img alt="Oracle Database XE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </a>
   <a href="https://spark.apache.org/">
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black">
   </a>
   <a href="https://www.r-project.org/about.html">
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
