@@ -10,16 +10,17 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 
-- 👋 Hi, I’m Chalil
+- 👋 Hi, I’m Chalil Al Vareel
 - 💼 I'm focused on Data Science and Analytic
 - 💬 I'm a CS Bachelor Degree Graduate from University of North Sumatra
 
 <h2> Best Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href="https://www.javascript.com" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-222222?style=for-the-badge&logo=javascript&logoColor=yellow">
+  
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
-  <a href="https://www.nodejs.org" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/Node.Js-499c16?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
   <a href="https://www.expressjs.com" target="_blank">
     <img alt="express.js" src="https://img.shields.io/badge/express.js-dddddd?style=for-the-badge&logo=express&logoColor=black">
