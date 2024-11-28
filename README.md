@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile;I'm+A+Computer+Science+Graduate+From+Universitas+Sumatera+Utara" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile;I'm+A+Computer+Science+Graduate" alt="Typing SVG" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/cavareel/" target="_blank">
