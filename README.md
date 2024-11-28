@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile;I'm+A+Computer+Science+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile;I'm+A+Computer+Science+Graduate+From+Universitas+Sumatera+Utara" alt="Typing SVG" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/cavareel/" target="_blank">
@@ -22,29 +22,38 @@
   <a href="https://www.tensorflow.org" target="_blank">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
-  <a href="https://www.expressjs.com" target="_blank">
-    <img alt="express.js" src="https://img.shields.io/badge/express.js-dddddd?style=for-the-badge&logo=express&logoColor=black">
+  <a href="https://www.keras.io" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
-  <a href="https://www.react.dev" target="_blank">
-    <img alt="react.js" src="https://img.shields.io/badge/react.js-16649c?style=for-the-badge&logo=react&logoColor=white">
+  <a href="https://www.matplotlib.org" target="_blank">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
-  <a href="https://www.postman.com" target="_blank">
-    <img alt="postman" src="https://img.shields.io/badge/postman-b57d3e?style=for-the-badge&logo=postman&logoColor=white">
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  <a href="https://scipy.org/" target="_blank">
+    <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+  </a>
+<!--   <a href="https://www.postgresql.org" target="_blank">
     <img alt="postgresql" src="https://img.shields.io/badge/postgresql-308bb3?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://www.mysql.com" target="_blank">
     <img alt="mysql" src="https://img.shields.io/badge/mysql-4f82bd?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <a href="https://www.oracle.com/id/database/technologies/appdev/xe.html" target="_blank">
+    <img alt="Oracle Database XE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </a>
-  <a href="https://www.heroku.com/">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <a href="https://spark.apache.org/">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
   </a>
-  <a href="https://www.railway.app/">
-    <img alt="railway.app" src="https://img.shields.io/badge/railway.app-8d4fbd?style=for-the-badge&logo=railway&logoColor=white">
+  <a href="https://www.r-project.org/about.html">
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
   </a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
