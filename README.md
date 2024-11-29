@@ -3,19 +3,23 @@
 </p>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile;I'm+A+Computer+Science+Graduate" alt="Typing SVG" /></a>
-</p>
-
-   <a href="https://www.linkedin.com/in/cavareel/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile👋;I'm+A+Computer+Science+Graduate;From+Universitas+Sumatera+Utara" alt="Typing SVG" /></a>
+</p> 
 
 - 👋 Hi, I’m Chalil Al Vareel
+- 🌱 I'm a CS Bachelor Degree Graduate from Universitas Sumatera Utara
 - 💼 I'm focused on Data Science and Analytic
-- 💬 I'm a CS Bachelor Degree Graduate from University of North Sumatra
+- 👨‍💻 You can check my CV in this [link](https://docs.google.com/document/d/1kXhUMEexver0FSE25DaVINHaUIGbC4dr4FOnENK3AS4/edit?usp=sharing)
+- 📫 Feel free to reach me at [chalilalvareel@gmail.com](mailto:chalilalvareel@gmail.com) or my social media below 👇
 
-<h2> Best Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  
+<h2 align="left">🤳Social Media </h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/cavareel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chalil Al Vareel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cavareel/?utm_source=ig_web_button_share_sheet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.angkasah" height="30" width="40" /></a>
+</p>
+<p></p>
+
+## 🛠️ Tools and Skills
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
@@ -55,8 +59,9 @@
   <a href="https://www.r-project.org/about.html">
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
   </a>
+  <p></p>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats (Expand to View) </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
